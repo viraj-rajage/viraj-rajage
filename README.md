@@ -1,4 +1,4 @@
-
+![logo](https://github.com/viraj-rajage/viraj-rajage/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Viraj Rajage</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img border-radius="10" width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
