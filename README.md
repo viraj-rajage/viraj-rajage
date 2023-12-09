@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viraj Rajage</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img width="400" align="right" src="https://th.bing.com/th/id/R.14ae53b8d112e02b22d0f2bff7f4f7a8?rik=uarqANaeKB5%2fdg&riu=http%3a%2f%2fi.imgur.com%2fYr32yur.gif&ehk=kzLZtjbPT80GtQ%2bGrH5dL%2fwmblkB2dpPg8lqELfiN3Q%3d&risl=1&pid=ImgRaw&r=0" alt="coding">
+<img width="400" align="right" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-rajage&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-rajage" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Application**
