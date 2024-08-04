@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **JS Framework(Node js,Next js)**
 
-- 👨‍💻 All of my projects are available at [https://viraj-res.netlify.app](https://viraj-res.netlify.app)
+- 👨‍💻 All of my projects are available at [https://virajsite.netlify.app](https://virajsite.netlify.app)
 
 - 💬 Ask me about **Website Design & Creative Ideas**
 
 - 📫 How to reach me **virajrajage17@gmail.com**
 
-- 📄 Know about my experiences [https://viraj-res.netlify.app/Document/Viraj-Resume.pdf](https://viraj-res.netlify.app/Document/Viraj-Resume.pdf)
+- 📄 Know about my experiences [https://virajsite.netlify.app/download/Viraj-Resume.pdf](https://virajsite.netlify.app/download/Viraj-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
